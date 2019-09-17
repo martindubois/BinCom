@@ -1,0 +1,42 @@
+
+# Author   KMS - Martin Dubois, ing.
+# Product  BinCom
+# File     BinCom/Tests/Test_No.txt
+
+CheckSum Reset
+Close
+Frame Info
+Frame Reset
+Frame Set
+Frame Set Command
+Frame Set Invalid
+Frame Set Register
+Frame Set SlaveAddress
+Frame Set SyncByte
+Frame Set Command 0
+Frame Set Invalid 0
+Frame Set Register 0
+Frame Set SlaveAddress 0
+Frame Set SyncByte 0
+Open
+Open CO
+Receive Binary
+Receive Binary 0
+Receive Binary 2
+Receive Binary Invalid
+Receive CheckSum
+Receive Frame
+Receive Frame 2
+Receive Frame Invalid
+Receive Text
+Receive Text 0
+Receive Text 2
+Receive Text Invalid
+Send Binary
+Send Binary 0
+Send Binary 0 a A
+Send Binary Invalid
+Send CheckSum
+Send Frame
+Send Text
+Send Text Text

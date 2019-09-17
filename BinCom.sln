@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BinCom", "BinCom\BinCom.vcxproj", "{13749F14-9691-4C38-8F70-E7BF61633A38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E425AE6A-D617-400F-98DE-9FDF18E1D900}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		Import.cmd = Import.cmd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{9F2E060F-7794-475F-BB36-48DE5C9ED806}"
+	ProjectSection(SolutionItems) = preProject
+		Common\Version.h = Common\Version.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Debug|x64.ActiveCfg = Debug|x64
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Debug|x64.Build.0 = Debug|x64
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Debug|x86.ActiveCfg = Debug|Win32
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Debug|x86.Build.0 = Debug|Win32
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Release|x64.ActiveCfg = Release|x64
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Release|x64.Build.0 = Release|x64
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Release|x86.ActiveCfg = Release|Win32
+		{13749F14-9691-4C38-8F70-E7BF61633A38}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3E79BC5-C88D-4667-86D2-E808A32543E4}
+	EndGlobalSection
+EndGlobal

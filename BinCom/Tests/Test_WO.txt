@@ -1,0 +1,14 @@
+
+# Author   KMS - Martin Dubois, ing.
+# Product  BinCom
+# File     BinCom/Tests/Test_WO.txt
+
+Open COM1
+Open COM1
+Send Binary 0
+Send CheckSum
+Send Frame
+Send Frame 0
+Send Text Text
+
+Close

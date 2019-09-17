@@ -1,0 +1,10 @@
+
+# Author   KMS - Martin Dubois, ing.
+# Product  BinCom
+# File     .gitignore
+
+/.vs/
+/Import/
+
+Debug/
+Release/
